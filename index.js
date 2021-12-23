@@ -1,0 +1,1 @@
+exports.AppleAccount = require('./lib/AppleAccount')

@@ -1,0 +1,29 @@
+{
+  "name": "asc-api",
+  "version": "1.0.0",
+  "description": "App Store Connect API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisonEvf/asc-api.git"
+  },
+  "keywords": [
+    "apple",
+    "develop",
+    "AppStore",
+    "API",
+    "appleaccount"
+  ],
+  "author": "LisonEvf",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/LisonEvf/asc-api/issues"
+  },
+  "homepage": "https://github.com/LisonEvf/asc-api#readme"
+}
